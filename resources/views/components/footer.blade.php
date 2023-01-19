@@ -1,6 +1,5 @@
 
-@section("footer")
-    <footer>
+<footer>
         <div class="zerogrid wrap-footer">
             <div class="row">
                 <div class="col-1-4 col-footer-1">
@@ -97,4 +96,3 @@
             </div>
         </div>
     </footer>
-@endsection

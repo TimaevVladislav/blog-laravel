@@ -38,7 +38,7 @@
 <body class="archive-page">
 <div class="wrap-body">
 
-    @include('components.header')
+    @include("components.header")
     <!--////////////////////////////////////Container-->
     <section id="container">
         <div class="wrap-container">
@@ -101,7 +101,7 @@
     </section>
 
     <!--////////////////////////////////////Footer-->
-
+     @include("components.footer")
 </div>
 </body>
 </html>

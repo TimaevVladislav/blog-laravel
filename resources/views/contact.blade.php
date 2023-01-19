@@ -49,7 +49,7 @@
 <body class="contact-page">
 <div class="wrap-body">
 
-
+    @include("components.header")
     <!--////////////////////////////////////Container-->
     <section id="container">
         <div class="wrap-container">
@@ -94,7 +94,7 @@
         </div>
     </section>
     <!--////////////////////////////////////Footer-->
-
+    @include("components.footer")
 
 </div>
 

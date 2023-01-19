@@ -1,8 +1,10 @@
 
+{{--class="active"--}}
+
 <header>
     <div id="cssmenu" class="align-center">
         <ul>
-            <li class="active">
+            <li>
                 <a href="/">
                     <span>Главная</span>
                 </a>
@@ -28,18 +30,6 @@
                 </a>
             </li>
         </ul>
-    </div>
-    <div id="owl-slide" class="owl-carousel">
-        <div class="item">
-            <img src="images/slide1.jpg" />
-        </div>
-        <div class="item">
-            <img src="images/slide2.jpg" />
-        </div>
-        <div class="item">
-            <img src="images/slide3.jpg" />
-
-        </div>
     </div>
 </header>
 
